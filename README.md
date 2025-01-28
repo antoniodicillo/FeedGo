@@ -6,14 +6,14 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+- [Karol](https://github.com/Karol-barbosa/)
+- [Raiane](https://github.com/raianeab)
+- [Antonio](https://github.com/antoniodicillo)
+- [Eduardo](https://github.com/duardoozz)
+- [Luciano](https://github.com/lucvitale)
+- [Chris](https://github.com/ChristianCLawr2nc2)
+- [Vinícius]
+- [Daniel]
 
 ---
 
