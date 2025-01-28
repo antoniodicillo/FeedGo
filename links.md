@@ -5,5 +5,5 @@ Eduardo: https://github.com/duardoozz <br>
 Luciano: https://github.com/lucvitale <br>
 Chris: https://github.com/ChristianCLawr2nc2 <br>
 
-Vinícius:
-Daniel:
+Vinícius: <br>
+Daniel: <br>
