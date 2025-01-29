@@ -22,8 +22,8 @@
 
 ## **📄 Descrição do Projeto**
 
-> Um agente que auxilia um líder criando uma melhor abordagem
-para lidar com diferentes problemas baseados em SCI.
+> Um agente que auxilia um líder criando uma melhor abordagem em diferentes tipos
+de feedbacks para lidar com diferentes problemas baseados em SCI.
 
 ---
 
@@ -81,7 +81,7 @@ para lidar com diferentes problemas baseados em SCI.
 
 ### **📘 Principais Referências Utilizadas:**
 
-- 📗 [PDF SCI](/Assets/pdfSCI.pdf)
+- 📗 [PDF SCI](https://drive.google.com/file/d/1PRu7_TJtILquB_5LFH3JEx7TzLIWepck/view?usp=sharing)
 - 📙 _[Nome ou link da base de conhecimento 2]_
 - 📕 _[Nome ou link da base de conhecimento 3]_
 
