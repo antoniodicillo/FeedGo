@@ -14,23 +14,29 @@
 - [Eduardo](https://github.com/duardoozz)
 - [Luciano](https://github.com/lucvitale)
 - [Chris](https://github.com/ChristianCLawr2nc2)
+- [Daniel](https://github.com/DanGuilger)
 - [Vinícius]
-- [Daniel]
+
 
 ---
 
 ## **📄 Descrição do Projeto**
 
-> Um agente que proporciona e feedbacks baseados em problemas de comunicação de um líder. Nesses feedbacks ele pode melhorar e apontar erros. O feedback é baseado em SCI.
+> Um agente que proporciona e feedbacks baseados em problemas de comunicação 
+de um líder, e pode melhorar e apontar erros.
+O feedback é baseado em SCI.    
 
 ---
 
 ## **🤖 Instruções do GPT**
 
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.
+### 🛠️ Definição de Escopo e Critérios de Segurança:
+1. Este agente aceita texto e audio para a criação de um feedback claro e preciso 
+2. Outros conteúdos não relacionados ao tema serão desconsiderados pelo agente e respondido com uma mensagem de orientação para análise.
+3. As interações só continuam após o envio do material dentro do escopo.
+
+### 📑 Critérios para a criação do feedback
+1. Clareza e estrutura
 
 ---
 
@@ -47,9 +53,9 @@
 
 > Selecionar a categoria do feedback desejado
 
-1.  Feedback - Amigavel
-2.  Feedback - Direto
-3.  Feedback - Direto e Empático
+- Desempenho
+- Comportamental
+- Desenvolvimento
 
 ---
 
