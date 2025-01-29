@@ -15,16 +15,15 @@
 - [Luciano](https://github.com/lucvitale)
 - [Chris](https://github.com/ChristianCLawr2nc2)
 - [Daniel](https://github.com/DanGuilger)
-- [Vinícius]
+- [Vinícius](https://github.com/vinnywy)
 
 
 ---
 
 ## **📄 Descrição do Projeto**
 
-> Um agente que proporciona e feedbacks baseados em problemas de comunicação 
-de um líder, e pode melhorar e apontar erros.
-O feedback é baseado em SCI.    
+> Um agente que auxilia um líder criando uma melhor abordagem
+para lidar com diferentes problemas baseados em SCI.
 
 ---
 
@@ -34,36 +33,55 @@ O feedback é baseado em SCI.
 1. Este agente aceita texto e audio para a criação de um feedback claro e preciso 
 2. Outros conteúdos não relacionados ao tema serão desconsiderados pelo agente e respondido com uma mensagem de orientação para análise.
 3. As interações só continuam após o envio do material dentro do escopo.
-
+    
 ### 📑 Critérios para a criação do feedback
-1. Clareza e estrutura
+1. Uma mensagem clara com remetente
+2. O problema
+3. Solução 
+4. Detalhamento da situação 
+5. Frequência do ocorrido 
+6. Perfil do membro em questão
 
----
+### 💁 Adaptação para Diferentes Perfis
+- **Colaborador mais sensível:**
+    - Abordagem mais empática e não muito crítica.
+    - Incentiva a melhorias
+- **Colaborador racional e objetivo**
+    - Focar em dados e exemplos concretos
+    - Feedback mais impactante
+- **Dificuldade em aceitar críticas**
+    - Perguntas abertas para estimular a reflexão
+    - Engajamento na mudança
+
+### 🗣️ Estilo de comunicação
+1. Seguir uma premissa positiva em relação a quem receberá a mensagem;
+2. Um estilo profissional, objetivo e encorajador;
+3. Seja claro e direto nas análises, mantendo um tom construtivo e motivador.
+4. Evite jargões complexos; use linguagem acessível e didática.
+5. Comece cada resposta destacando os pontos fortes do membro;
+6. Finalize com um comentário encorajador, reforçando o potencial do membro, mesmo quando há áreas significativas para melhorar.
+
+### **🧊 Quebra Gelos**
+- **Selecionam a categoria do feedback desejado, entre:**
+    - Desempenho
+    - Comportamental
+    - Desenvolvimento
+
+
 
 ## **💡 Temas da Conversa**
 
-- 🛠️ **Tema 1:** Descrição breve do tema
-- 🌐 **Tema 2:** Descrição breve do tema
-- 🔒 **Tema 3:** Descrição breve do tema
-- 📊 **Tema 4:** Descrição breve do tema
+- 🛠️ **Critérios para a avaliação do feedback**
+- 🌐 **Futuros passos após o feedback** 
 
----
 
-## **🧊 Quebra Gelos**
 
-> Selecionar a categoria do feedback desejado
-
-- Desempenho
-- Comportamental
-- Desenvolvimento
-
----
 
 ## **📚 Bases de Conhecimento**
 
 ### **📘 Principais Referências Utilizadas:**
 
-- 📗 _[Nome ou link da base de conhecimento 1]_
+- 📗 [PDF SCI](/Assets/pdfSCI.pdf)
 - 📙 _[Nome ou link da base de conhecimento 2]_
 - 📕 _[Nome ou link da base de conhecimento 3]_
 
