@@ -91,7 +91,7 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
 - 🔗 [Link 2](#)
 - 🔗 [Link 3](#)
 
----
+# deletar o abaixo quando finalizar o projeto
 
 ⚠️ Organização dos Arquivos no Repositório
 
