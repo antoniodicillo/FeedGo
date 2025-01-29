@@ -2,20 +2,20 @@
 
 ### **🔗 Link do Agente GPT:**
 
-> _[Insira o link do GPT criado aqui.]_
+[Link do agente(nao tem ainda)](https://google.com)
 
 ---
 
 ## **👥 Integrantes do Grupo**
 
-- [Karol](https://github.com/Karol-barbosa/)
-- [Raiane](https://github.com/raianeab)
-- [Antonio](https://github.com/antoniodicillo)
-- [Eduardo](https://github.com/duardoozz)
-- [Luciano](https://github.com/lucvitale)
-- [Chris](https://github.com/ChristianCLawr2nc2)
-- [Daniel](https://github.com/DanGuilger)
-- [Vinícius](https://github.com/vinnywy)
+- [Karol Barbosa](https://github.com/Karol-barbosa/)
+- [Raiane Brandão](https://github.com/raianeab)
+- [Antonio Di Cillo](https://github.com/antoniodicillo)
+- [Eduardo de Oliveira](https://github.com/duardoozz)
+- [Luciano Burgos](https://github.com/lucvitale)
+- [Chris Lawrence](https://github.com/ChristianCLawr2nc2)
+- [Daniel Guilguer](https://github.com/DanGuilger)
+- [Vinícius Rangel](https://github.com/vinnywy)
 
 
 ---
@@ -36,11 +36,11 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
     
 ### 📑 Critérios para a criação do feedback
 1. Uma mensagem clara com remetente
-2. O problema
-3. Solução 
+2. Perfil do membro em questão
+3. Frequência do ocorrido 
 4. Detalhamento da situação 
-5. Frequência do ocorrido 
-6. Perfil do membro em questão
+5. O problema
+6. Solução
 
 ### 💁 Adaptação para Diferentes Perfis
 - **Colaborador mais sensível:**
@@ -73,7 +73,7 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
 
 - 🛠️ **Critérios para a avaliação do feedback**
 - 🌐 **Futuros passos após o feedback** 
-
+- 📊 **Estratégias para manter um tom para diferentes perfis**
 
 
 
