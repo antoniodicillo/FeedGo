@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **🚀 Nome do Projeto (Nao definido)**
 
 ### **🔗 Link do Agente GPT:**
 
@@ -71,7 +71,7 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
 
 - 🛠️ **Critérios para a avaliação do feedback**
 - 🌐 **Futuros passos após o feedback** 
-- 📊 **Estratégias para manter um tom para diferentes perfis**
+- 📊 **Estratégias para diferentes perfis**
 
 ---
 
