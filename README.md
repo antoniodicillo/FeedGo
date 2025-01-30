@@ -1,6 +1,9 @@
-<img src='Assets/feedgo.png' alt='Logo FeedGo' width='200'>
+<p align='center'>
+    <img src='Assets/feedgo.png' alt='Logo FeedGo' width='130'>
+    <h1 align='center'>🚀 FeedGo </h1>
+</p>
 
-# **🚀 FeedGo**
+
 
 ### **🔗 Link do Agente GPT:**
 
