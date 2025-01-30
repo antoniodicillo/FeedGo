@@ -107,3 +107,5 @@
 - 🔗 [Feedback e performance em empresas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234444)
 - 🔗 [Funcionarios após receberem feedback](https://exame.com/bussola/94-dos-funcionarios-trabalham-melhor-depois-de-receber-feedback/?utm_source=chatgpt.com)
 - 🔗 [Feedback na gestao brasileira](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm?utm_source=chatgpt.com)
+- 🔗 [Falta de engajamento de trabalhadores](https://www.insper.edu.br/pt/noticias/2023/7/falta-de-engajamento-dos-trabalhadores-custa-9--do-pib-global--d?utm_source=chatgpt.com)
+
