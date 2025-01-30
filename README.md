@@ -80,16 +80,11 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
 ### **📘 Principais Referências Utilizadas:**
 
 - 📗 [PDF SCI](https://drive.google.com/file/d/1PRu7_TJtILquB_5LFH3JEx7TzLIWepck/view?usp=sharing)
+- 🔗 [Feedback SCI](https://blog.smartleader.com.br/feedback-sci/)
 
 ### **📖 Documentações Complementares:**
 
-- 🔗 [Feedback SCI](https://blog.smartleader.com.br/feedback-sci/)
-- 🔗 [Forma efetiva de feedback](https://globalhumancon.com/como-dar-y-recibir-feedback-de-forma-efectiva-con-el-modelo-sci/?utm_source=chatgpt.com)
+- 🔗 [Feedback e performance em empresas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234444)
+- 🔗 [Funcionarios após receberem feedback](https://exame.com/bussola/94-dos-funcionarios-trabalham-melhor-depois-de-receber-feedback/?utm_source=chatgpt.com)
+- 🔗 [Feedback na gestao brasileira](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm?utm_source=chatgpt.com)
 
-# deletar o abaixo quando finalizar o projeto
-
-⚠️ Organização dos Arquivos no Repositório
-
-- Salve todos os prompts usados no agente em um arquivo .txt e adicione-o ao repositório.
-
-- Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta.
