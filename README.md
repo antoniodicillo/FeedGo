@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='Assets/feedgoal.png' alt='Logo FeedGo' width='200'>
+    <img src='Assets/feedgoal.jpg' alt='Logo FeedGo' width='200'>
     <h1 align='center'>🚀 FeedGoal </h1>
 </p>
 
@@ -7,7 +7,7 @@
 
 ### **🔗 Link do Agente GPT:**
 
-[Link do agente(nao tem ainda)](https://google.com)
+[Link do agente](https://chatgpt.com/g/g-679b764d54208191ba9426669b601287-feedgoal)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## **📄 Descrição do Projeto**
 
-> Um agente que auxilia um líder na sua comunicação e criando uma melhor abordagem em feedbacks para lidar com diferentes perfis de colaboradores garantindo um feedback eficaz e adaptado para diferentes contextos.
+> Um agente que auxilia e melhora líderes em sua comunicação, com uma abordagem aprimorada para a transmissão de feedbacks, adaptado a diferentes perfis de colaboradores e adequado a diversos contextos.
 
 ---
 
@@ -103,8 +103,7 @@
 - 🔗 [Feedback SCI](https://blog.smartleader.com.br/feedback-sci/)
 
 ### **📖 Documentações Complementares:**
-
+- 📕 CAPPELLI, Peter et al. The performance management revolution. Harvard Business Review, v. 94, n. 10, p. 58-67, 2016.
 - 🔗 [Feedback e performance em empresas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234444)
 - 🔗 [Funcionarios após receberem feedback](https://exame.com/bussola/94-dos-funcionarios-trabalham-melhor-depois-de-receber-feedback/?utm_source=chatgpt.com)
 - 🔗 [Feedback na gestao brasileira](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm?utm_source=chatgpt.com)
-
