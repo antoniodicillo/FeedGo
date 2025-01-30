@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto (Nao definido)**
+# **🚀 FeedGo**
 
 ### **🔗 Link do Agente GPT:**
 
