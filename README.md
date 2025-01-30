@@ -8,13 +8,13 @@
 
 ## **👥 Integrantes do Grupo**
 
-- [Karol Barbosa](https://github.com/Karol-barbosa/)
-- [Raiane Brandão](https://github.com/raianeab)
 - [Antonio Di Cillo](https://github.com/antoniodicillo)
-- [Eduardo de Oliveira](https://github.com/duardoozz)
-- [Luciano Burgos](https://github.com/lucvitale)
 - [Chris Lawrence](https://github.com/ChristianCLawr2nc2)
 - [Daniel Guilguer](https://github.com/DanGuilger)
+- [Eduardo de Oliveira](https://github.com/duardoozz)
+- [Karol Barbosa](https://github.com/Karol-barbosa/)
+- [Luciano Burgos](https://github.com/lucvitale)
+- [Raiane Brandão](https://github.com/raianeab)
 - [Vinícius Rangel](https://github.com/vinnywy)
 
 
