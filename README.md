@@ -60,10 +60,8 @@ de feedbacks para lidar com diferentes problemas baseados em SCI.
 
 
 ### **🧊 Quebra Gelos**
-- **Selecionam a categoria do feedback desejado, entre:**
-    - Desempenho
-    - Comportamental
-    - Desenvolvimento
+    - Desejo criar um feedback
+    - Desejo analisar um feedback
 
 ---
 
