@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src='Assets/feedgoal.png' alt='Logo FeedGo' width='130'>
+    <img src='Assets/feedgoal.png' alt='Logo FeedGo' width='200'>
     <h1 align='center'>🚀 FeedGoal </h1>
 </p>
 
