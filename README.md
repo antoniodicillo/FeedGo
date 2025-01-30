@@ -76,8 +76,8 @@
 
 
 ### **🧊 Quebra Gelos**
-    - Desejo criar um feedback
-    - Desejo analisar um feedback
+- Desejo criar um feedback
+- Desejo analisar um feedback
 
 ---
 
