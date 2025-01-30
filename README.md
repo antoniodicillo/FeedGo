@@ -103,7 +103,7 @@
 - 🔗 [Feedback SCI](https://blog.smartleader.com.br/feedback-sci/)
 
 ### **📖 Documentações Complementares:**
-- 📕 CAPPELLI, Peter et al. The performance management revolution. Harvard Business Review, v. 94, n. 10, p. 58-67, 2016.
+- 📕 [CAPPELLI, Peter et al. The performance management revolution. Harvard Business Review, v. 94, n. 10, p. 58-67, 2016.](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/0d740b595eaebef7a8cdd812f86f6760/asset-v1:WhartonOnlineProfessionalEd+MGMT1x+4T2017+type@asset+block/Performance-Appraisal-HBR.pdf)
 - 🔗 [Feedback e performance em empresas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234444)
 - 🔗 [Funcionarios após receberem feedback](https://exame.com/bussola/94-dos-funcionarios-trabalham-melhor-depois-de-receber-feedback/?utm_source=chatgpt.com)
 - 🔗 [Feedback na gestao brasileira](https://economia.uol.com.br/noticias/redacao/2020/11/10/dar-feedback-e-o-maior-ponto-fraco-na-gestao-brasileira-diz-pesquisa.htm?utm_source=chatgpt.com)
