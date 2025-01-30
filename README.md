@@ -1,3 +1,5 @@
+<img src='Assets/feedgo.png' alt='Logo FeedGo' width='200'>
+
 # **🚀 FeedGo**
 
 ### **🔗 Link do Agente GPT:**
