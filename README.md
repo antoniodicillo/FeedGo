@@ -1,6 +1,6 @@
 <p align='center'>
     <img src='Assets/feedgo.png' alt='Logo FeedGo' width='130'>
-    <h1 align='center'>🚀 FeedGo </h1>
+    <h1 align='center'>🚀 FeedGoal </h1>
 </p>
 
 
